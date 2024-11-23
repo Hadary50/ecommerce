@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.36d92451.css",
+    "main.js": "/ecommerce/static/js/main.f68c08d2.js",
+    "static/js/453.1936ba5e.chunk.js": "/ecommerce/static/js/453.1936ba5e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ecommerce/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/Side Image.png": "/ecommerce/static/media/Side Image.322a8f492b2e4869ee38.png",
+    "static/media/fa-brands-400.ttf": "/ecommerce/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.jpg": "/ecommerce/static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.cfba71379b937f44d155.jpg",
+    "static/media/fa-solid-900.woff2": "/ecommerce/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.png": "/ecommerce/static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.7f25e36c7ba0ccd688f7.png",
+    "static/media/fa-brands-400.woff2": "/ecommerce/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/ecommerce/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/1_kf1Q92T7pwsS_4vfPBmNCA.jpg": "/ecommerce/static/media/1_kf1Q92T7pwsS_4vfPBmNCA.1d1d07de5d2d0d7f71a6.jpg",
+    "static/media/fa-regular-400.woff2": "/ecommerce/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ecommerce/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/google_logo-google_icongoogle-512.webp": "/ecommerce/static/media/google_logo-google_icongoogle-512.a05d721bb9bba483749f.webp",
+    "static/media/fa-v4compatibility.woff2": "/ecommerce/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecommerce/index.html",
+    "main.36d92451.css.map": "/ecommerce/static/css/main.36d92451.css.map",
+    "main.f68c08d2.js.map": "/ecommerce/static/js/main.f68c08d2.js.map",
+    "453.1936ba5e.chunk.js.map": "/ecommerce/static/js/453.1936ba5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d92451.css",
+    "static/js/main.f68c08d2.js"
+  ]
+}
